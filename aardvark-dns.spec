@@ -13,6 +13,7 @@ BuildRequires: golang
 BuildRequires: go-md2man
 BuildRequires: rust
 BuildRequires: protobuf-compiler
+BuildRequires: cargo
 
 %description
 Aardvark-dns is an authoritative dns server for A/AAAA container records.
