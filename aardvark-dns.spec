@@ -1,7 +1,7 @@
 %undefine _debugsource_packages
 
 Name: aardvark-dns
-Version: 1.14.0
+Version: 1.15.0
 Release: 1
 Source0: https://github.com/containers/aardvark-dns/archive/refs/tags/v%{version}.tar.gz
 Source1: vendor.tar.xz
